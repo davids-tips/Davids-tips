@@ -7,4 +7,4 @@
 - 📫 How to reach me: dpowell6grade@gmail.com and 
 - 😄 Pronouns: student
 - ⚡ Fun fact: I am a high school student.
--->
+- I am now starting to program my own bot for discord.py. It is called WhiskeyBot and is in Beta and Privite due to the danger of sharing repo's with discord bot tokens. (that and they delete tokens found on the internet) So for the time being it is privite. Though if you would like to share code snippits that may be useful pleae email them to my email on my profile. Thank you all for any assistance you man provide.
