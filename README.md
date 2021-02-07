@@ -1,4 +1,5 @@
- Hi there 👋 My name is David Powell. I use windows 10 manly and I like tynkering with aurduinos and automating stuff.
+_David Powell_![](https://davids-tips.github.io/./images/hacker.png)
+Hi there 👋 My name is David Powell. I use windows 10 manly and I like tynkering with aurduinos and automating stuff.
 - 🔭 I’m currently working on starting my own website
 - 🌱 I’m currently learning html and css
 - 👯 I’m looking to collaborate on my website so create a branch and I will take a look at them.
