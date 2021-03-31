@@ -1,5 +1,4 @@
-_David Powell_![](https://davids-tips.github.io/./images/hacker.png)
-
+# About me!
 Hi there 👋 My name is David Powell. I use windows 10 manly and I like tynkering with aurduinos and automating stuff.
 - 🔭 I’m currently working on starting my own website
 - 🌱 I’m currently learning html and css
@@ -10,3 +9,9 @@ Hi there 👋 My name is David Powell. I use windows 10 manly and I like tynkeri
 - 😄 Pronouns: student
 - ⚡ Fun fact: I am a high school student.
 - I am now starting to program my own bot for discord.py. It is called WhiskeyBot and is in Beta and Privite due to the danger of sharing repo's with discord bot tokens. (that and they delete tokens found on the internet) So for the time being it is privite. Though if you would like to share code snippits that may be useful pleae email them to my email on my profile. Thank you all for any assistance you man provide.
+# Current Projects
+- WhiskeyBot Alpha
+- WhiskeyBot Beta
+- WhiskeyBot Slash
+- WhiskeyBot Moderation/Logging
+- And as always my website https://davids-tips.github.io. Repo: https:github.com/davids-tips/davids-tips.github.io
